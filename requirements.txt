@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+mediapipe
+torch
+pandas
+numpy
+Pillow
+pyttsx3
+scikit-learn
+matplotlib
+openpyxl
